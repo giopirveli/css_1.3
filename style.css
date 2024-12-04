@@ -1,0 +1,71 @@
+#center{
+text-align:center;
+}
+body{
+    margin-left:30px ;
+}
+#colorOrange{
+    color:orange;
+    width: 700px;
+}
+#firstBox{
+margin-left: 25%;
+}
+#cosmos{
+    width: 100%;
+}
+#bigBenBox{
+width: 680px;
+}
+#bigBenBox h2{
+    color: darkgoldenrod;
+    
+}
+#bigBenBox p{
+    color: cornflowerblue;
+    width: 415px;
+}
+#darkHoleBox{
+    text-align: center;
+    background-color: coral;
+    width: 900px;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-bottom: chocolate solid 2px;
+    border-right: chocolate solid 2px;
+    padding-bottom: 50px;
+}
+#darkHole{
+width: 780px;
+}
+#darkHoleBox p{
+color: brown;
+width: 55%;
+margin-left: 22%;
+}
+#darkHoleBox h2 {
+    color: darkred;
+}
+#textRight{
+text-align: right;
+}
+#pinkParagrap{
+    color: grey;
+    background-color:pink;
+    border: 2px deeppink solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#stringTheoryBox{
+    width: 680px;
+}
+#textRight h2{
+    color: blueviolet;
+}
+#stringTheoryList ul ::marker{
+font-size: 40px;
+color: black;
+}
+#stringTheoryList li{
+    color: goldenrod;
+}
