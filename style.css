@@ -1,71 +1,105 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
 #center{
 text-align:center;
+margin-bottom: 63px;
 }
 body{
     margin-left:30px ;
 }
+h1{
+  font-size: 72px;
+  margin-bottom: 53px;
+}
 #colorOrange{
-    color:orange;
-    width: 700px;
+    color: #FF8000;
+    width: 1220px;
+    font-size: 24px;
+    margin: 0 auto;  
 }
-#firstBox{
-margin-left: 25%;
-}
+
 #cosmos{
-    width: 100%;
+    height: 415px;
 }
 #bigBenBox{
 width: 680px;
+margin-bottom: 101px;
 }
 #bigBenBox h2{
     color: darkgoldenrod;
-    
+    font-size: 40px;
+    margin-bottom: 24px;
 }
 #bigBenBox p{
-    color: cornflowerblue;
-    width: 415px;
+    color: #6D81B4;
+    font-size: 24px;
+    margin-bottom: 30px;
 }
 #darkHoleBox{
     text-align: center;
-    background-color: coral;
-    width: 900px;
+    background-color:  #FFCEBE;;
+    width: 1007px;
     border-top: solid black 2px;
     border-left: solid black 2px;
     border-bottom: chocolate solid 2px;
     border-right: chocolate solid 2px;
-    padding-bottom: 50px;
+    padding: 64px;
+    margin-bottom: 173px;
 }
 #darkHole{
-width: 780px;
+    width: 879px;
+    height: 415px;
 }
 #darkHoleBox p{
-color: brown;
-width: 55%;
-margin-left: 22%;
+    color: #8B2B2C;
+font-size: 20px;
+width: 681px;
+margin: 0 auto;
+margin-top: 24px;
+margin-bottom: 30px;
 }
 #darkHoleBox h2 {
-    color: darkred;
+    color: #F44E50;
+    font-size: 40px;
 }
 #textRight{
 text-align: right;
 }
 #pinkParagrap{
-    color: grey;
-    background-color:pink;
-    border: 2px deeppink solid;
-    padding: 10px;
-    box-sizing: border-box;
+    color: #616161;
+    border: 3px solid #FF5DA3;
+    background-color: #FFC1E3;
+    font-size: 24px;
+    padding: 24px;
+    color: #616161;
 }
 #stringTheoryBox{
-    width: 680px;
+    width: 696px;
 }
 #textRight h2{
-    color: blueviolet;
+    color: #4716E4;
+    font-size: 40px;
+    margin-bottom: 24px;
 }
 #stringTheoryList ul ::marker{
-font-size: 40px;
+font-size: 25px;
 color: black;
 }
 #stringTheoryList li{
-    color: goldenrod;
+    color: #C27512;
+    font-size: 16px;
+}
+#stringTheoryList {
+margin: 30px 0;
+}
+#stringTheoryList h2{
+    font-size: 24px;
+    margin: 16px 0;
+}
+#stringTheoryBox img{
+    width: 100%;
+    height:415px
 }
